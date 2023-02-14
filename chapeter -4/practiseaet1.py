@@ -1,0 +1,11 @@
+a1 = input("enter the iteam 1  : ")
+a2 = input("enter the iteam 2  : ")
+a3 = input("enter the iteam 3  : ")
+a4 = input("enter the iteam 4  : ")
+a5 = input("enter the iteam 5  : ")
+list = [a1,a2,a3,a4,a5]
+# list.append(a)
+print(list)
+print(list[0])
+list.sort()
+print(list)
